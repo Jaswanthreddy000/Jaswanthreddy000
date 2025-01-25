@@ -1,4 +1,4 @@
-<h1 align="center">Hi ![github-header-image](https://github.com/user-attachments/assets/186e54a5-1d25-4f1d-a10d-1e081b58113a)
+![github-header-image](https://github.com/user-attachments/assets/186e54a5-1d25-4f1d-a10d-1e081b58113a)
 👋, I'm Jaswanth Reddy</h1>
 <h3 align="center">On a Mission to Build Smarter Systems | Full-Stack Developer & AI Enthusiast</h3>
 <img alt="developer" width=“400” src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDI2cmxvb213Y2d4Z211dWV5NXRieDl5dnJrcXZ2c2p4N3YzaDg5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"></img>
